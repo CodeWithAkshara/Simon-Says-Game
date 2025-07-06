@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn{
+    height:10rem;
+    width:10rem;
+    border-radius: 20%;
+    border:10px solid black;
+    margin: 1rem;
+    text-align: center;
+}
+
+
+.red{
+    background-color: chartreuse;
+}
+
+.blue{
+    background-color: blueviolet;
+}
+
+.yellow{
+    background-color: darkcyan;
+}
+
+.green{
+    background-color: lightcoral;
+}
+
+.flash{
+    background-color: white;
+}
