@@ -7,7 +7,7 @@ let started = false;
 let level = 0;
 let h3 = document.querySelector("h3");
 
-document.addEventListener("keypress", function () {
+document.addEventListener("click", function () {
     if (started == false) {
         started = true;
         levelUp();
